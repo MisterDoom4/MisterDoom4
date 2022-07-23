@@ -2,7 +2,7 @@
  <abc>
   
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://tenor.com/view/thumbs-up-sarcastic-kenny-omega-funny-gif-14224018" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 
