@@ -2,7 +2,7 @@
  <abc>
   
   <br>
-    <img src="https://tenor.com/view/boy-kid-computer-thumbs-up-face-gif-9548945" width="500">
+    <img src="https://media.giphy.com/media/hQFfgnzV03wsQ9Lrzy/giphy.gif" width="500">
  </abc>
 </h2> 
 
