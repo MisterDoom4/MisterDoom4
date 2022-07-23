@@ -2,7 +2,7 @@
  <abc>
   
   <br>
-    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500">
+    <img src="https://tenor.com/view/thumbs-up-sarcastic-kenny-omega-funny-gif-14224018" width="500">
  </abc>
 </h2> 
 
