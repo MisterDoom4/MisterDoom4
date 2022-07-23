@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=3B30FF00&lines=Hi!+i'm+Vinicius+Barbosa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=3B30FF00&lines=Hi!+I'm+Vinicius+Barbosa)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/MisterDoom4">
