@@ -2,7 +2,7 @@
  <abc>
   
   <br>
-    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500"><div class="tenor-gif-embed" data-postid="14224018" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/thumbs-up-sarcastic-kenny-omega-funny-gif-14224018">Thumbs Up Sarcastic GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500">
  </abc>
 </h2> 
 
