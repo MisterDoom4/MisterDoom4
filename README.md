@@ -1,9 +1,7 @@
 <h2 align="left">
- <abc>
-  <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>
+ 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
+
 </h2> 
 
 
@@ -17,8 +15,6 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> 
 </div>
 
-  ![alt tag](http://url/to/img.png)
- 
  
  
   ![Snake animation](https://github.com/MisterDoom4/MisterDoom4/blob/output/github-contribution-grid-snake.svg)
