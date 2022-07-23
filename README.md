@@ -9,6 +9,6 @@
  
  
   ![Snake animation](https://github.com/MisterDoom4/MisterDoom4/blob/output/github-contribution-grid-snake.svg)
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  ![Alt Text](http://i.imgur.com/OUkLi.gif)
  
 
