@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterDoom4&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  <img src=https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif>
+ <img src=https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif>
  
  
  
