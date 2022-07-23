@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterDoom4&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  ![Alt Text](http://i.imgur.com/OUkLi.gif)
+  ![Alt text]([http://full/path/to/img.jpg](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) "Optional title")
  
  
  
